@@ -1,3 +1,7 @@
-# HTML-PACTICE
-HTML PACTICE
-It PACTICE
+<!DOCTYPE html>
+  <html>
+    <head>
+      hallo, what u want to do
+    </head>
+      
+  </html>
