@@ -1,0 +1,146 @@
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.button1:hover {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.button2 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover {
+  background-color: #008CBA;
+  color: white;
+}
+
+body {
+  background-color: #126baf;
+}
+
+h1 {
+  font-family: 'Brush Script MT', cursive;
+}
+
+h1 {
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 100px;
+text-shadow: 33px -7px 14px #000000;
+}
+
+p {
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+text-indent: 47px;
+}
+
+body {
+text-align: center;
+margin: 0;
+}
+
+body {
+	margin: 0;
+}
+
+.rammer {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.rammer {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.eagler {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.eagler {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #04AA6D;
+}
+
+.rammer: hover {
+ background-color: #008CBA;
+  color: White;
+}
+
+.box {
+opacity: 0;
+transition: opacity 20s ease 0s;
+height: 1px;
+border: 1px solid black;
+padding: 10px;
+color: white;
+text-shadow: 25px 5px 6px #000000;
+width: 1px;
+background-color: #f44336;
+}
+
+.box:hover {
+  background-color: white;
+  color: white;
+opacity: 1;
+}
+
+h4 {
+  font-family: 'Brush Script MT', cursive;
+}
+
+h4 {
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 30px;
+text-shadow: 33px -7px 14px #000000;
+}
